@@ -16,8 +16,8 @@ Este documento recopila las preguntas más frecuentes (FAQ) relacionadas con los
 👉 NetBeans 8 fue estable en su época (2014 aprox.), pero está obsoleto: no soporta las últimas versiones de Java, librerías ni frameworks modernos. Usarlo hoy significa perder acceso a mejoras de rendimiento, seguridad y soporte.
 La recomendación es usar la última versión estable de Apache NetBeans, a ser posible en inglés, de esta manera si en el momento de la sede del examen, la versión no te va a parecer extraña. A muchas personas el paso de la version en castellano a la versión en inglés les ha resultado complicado.
 
-### ❓ **¿Es necesario usar el JDK 8, o puedo usar una versión más reciente?**
-👉 Aunque el JDK 8 es el estándar para muchos cursos y exámenes, usar una versión más reciente (como JDK 11 o JDK 17) puede ofrecer mejoras en rendimiento y nuevas características. Sin embargo, comprueba con el profesor que no hay problemas de compatibilidad con el usado por el profesor a la hora de corregir tareas y examenes.
+### ❓ **¿Es necesario usar el JDK 8, o usar una versión más reciente me me hace un malote?**
+👉 Aunque el JDK 8 es el estándar para muchos cursos y exámenes, usar una versión más reciente (como JDK 11 o JDK 17) puede ofrecer mejoras y nuevas características. Sin embargo, comprueba con el profesor que no hay problemas de compatibilidad con el usado por el profesor a la hora de corregir tareas y examenes.
 
 ### ❓ **¿Puedo usar otro IDE en lugar de NetBeans a puerta gayola?**
 👉 Sí, claro que puedes. Pero no es recomendable si no estas habituado o no tienes experiencia. NetBeans no es un dogma de fe, es solo una herramienta. Puedes usar IntelliJ IDEA, Eclipse o incluso Visual Studio Code con los plugins correctos. Para Java, te recomendaria Netbeans, para asuntos web, Visual Studio Code es una excelente opción.
