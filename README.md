@@ -11,3 +11,4 @@ Este documento recopila las preguntas más frecuentes (FAQ) relacionadas con los
 ## Preguntas Frecuentes
 ###❓ ¿Cuánto tiempo tengo que tardar en aprender a programar “bien”?
 👉 Nunca terminas de aprender. Puedes ser productivo en meses, pero dominar lleva años. La programación es como tocar un instrumento: siempre hay nuevas técnicas, estilos y tecnologías. Constancia y dedicación 
+
